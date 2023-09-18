@@ -14,7 +14,11 @@ I'm a day by day problem solver in the travel of making my self a good software 
 
 
 I'm always looking for new challenges and opportunities, so if you have any suggestions, please let me know 💡
+
 If you've read all of this, here to you a cookie as a reward: 🍪
+
+**Here's a GIF of me coding 💻:**
+
 
 
 [![Coding GIF](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
